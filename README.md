@@ -1,5 +1,5 @@
 # cookie sim
-start e.c++ to start game
+start o.exe to start game
 
 restart file to play again
 
